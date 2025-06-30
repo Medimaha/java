@@ -6,4 +6,3 @@ css
 js
 
 
-Thank you
